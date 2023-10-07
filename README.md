@@ -1,5 +1,5 @@
 
-# elide cli
+# elide runtime
 
 ![latest release](https://img.shields.io/github/v/release/elide-dev/elide?label=latest)
 ![platforms](https://img.shields.io/badge/platform-x86%20%7C%20arm64-gray)
