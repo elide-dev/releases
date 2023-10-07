@@ -1,7 +1,7 @@
 
 # elide cli
 
-![latest release](https://img.shields.io/github/v/release/elide-dev/cli?label=latest)
+![latest release](https://img.shields.io/github/v/release/elide-dev/elide?label=latest)
 ![platforms](https://img.shields.io/badge/platform-x86%20%7C%20arm64-gray)
 ![OS](https://img.shields.io/badge/OS-Darwin%20Linux%20-gray)
 
