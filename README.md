@@ -5,7 +5,7 @@
 ![platforms](https://img.shields.io/badge/platform-x86%20%7C%20arm64-gray)
 ![OS](https://img.shields.io/badge/OS-Darwin%20Linux%20-gray)
 
-> Current version: `(alpha)`
+> Current version: `1.0.0-alpha7`
 
 [Elide](https://elide.dev)'s command-line interface.
 
